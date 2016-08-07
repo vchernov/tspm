@@ -1,2 +1,2 @@
 # tspm
-Matlab solution of Traveling Salesman Problem
+Solution of Traveling Salesman Problem (TSP) using Genetic Algorithm (GA) in Matlab/Octave.
